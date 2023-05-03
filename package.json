@@ -4,6 +4,7 @@
   "description": "Official Razroo Javascript Starter",
   "main": "index.js",
   "scripts": {
+    "build": "mkdir -p dist && cp -R src/* dist/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
