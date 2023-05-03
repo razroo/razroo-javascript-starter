@@ -1,0 +1,22 @@
+{
+  "name": "razroo-javascript-starter",
+  "version": "1.0.0",
+  "description": "Official Razroo Javascript Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razroo/razroo-javascript-starter.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Razroo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razroo/razroo-javascript-starter/issues"
+  },
+  "homepage": "https://github.com/razroo/razroo-javascript-starter#readme"
+}
